@@ -84,7 +84,7 @@ später erneut.
 
 ::: footer-content
 ::: footer-section
-© 2003-2025 by DJ Jesse Jay & @®† from Zürich 🇨🇭
+© 2003-2026 by DJ Jesse Jay designed by Two Division & @®† from Zürich 🇨🇭
 :::
 
 ::: footer-section
